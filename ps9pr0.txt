@@ -1,5 +1,0 @@
-﻿Problem Set 9: Problem 0
-Put your response to the reading below.
-
-
-I think that pivot searching could be very useful if used properly. In particular, the article brought up the issue that people are interacting with more and more data, which can be hard to recall. Pivot searching is a way to organize your data interaction, while still maintaining a low digital footprint. I definitely have moments where I lose a chain of thought or forget about a website, article, etc, but with pivot searching as long as I remember when I was interacting with these things, I can pretty easily find them. The only concern I have is where do we draw the line with these matters that involve data privacy. Some pivot searching could involve other people’s data if you were interacting with someone else, so would you need both parties to be willing to allow their data to be tracked in this manner? What would happen if pivot searching got into the wrong hands? It seems like a very useful tool, but in my opinion, there are serious privacy questions that need to be considered and answered before pivot searching becomes widespread.
